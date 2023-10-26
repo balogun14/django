@@ -95,6 +95,12 @@ Minor features
 
 * ...
 
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* The nw :func:`django.shortcuts.make_toast`
+function returns ``'toast'``.
+
 Asynchronous views
 ~~~~~~~~~~~~~~~~~~
 
